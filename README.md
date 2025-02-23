@@ -1,6 +1,32 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Ibrahim</h1>
 <h3 align="center">I'm a passionate Flutter Developer with a strong background in UI/UX design and a Bachelor's degree in Mechatronics Engineering. I thrive on creating modern, responsive, and user-friendly applications, seamlessly blending my multidisciplinary expertise to deliver innovative and high-performance solutions.</h3>
 
+
+👋 Hi, I'm [Your Name]
+I'm a passionate Flutter Developer with a strong background in UI/UX design and a Bachelor's degree in Mechatronics Engineering. I thrive on creating modern, responsive, and user-friendly applications, seamlessly blending my multidisciplinary expertise to deliver innovative and high-performance solutions.
+
+🚀 What I Do
+🖥️ Flutter Development: Crafting high-quality, responsive web and mobile applications.
+🎨 UI/UX Design: Focusing on clean, modern designs with an intuitive user experience.
+💡 Full-Stack Solutions: Utilizing Supabase for backend services and Google Play integration.
+🛠️ Tech Stack
+Frontend: Flutter, Dart
+Backend: Supabase, Node.js, Firebase
+Design: Figma, Adobe XD
+Tools: VS Code, Git, Xcode
+🌍 Multilingual Applications
+I specialize in building apps that support Arabic and English, ensuring a broad and inclusive user experience.
+
+💼 Projects
+Project 2025: A robust app with modern UI, light/dark mode support, and a focus on performance and efficiency.
+تطبيق.تك: Developing solutions using NFC and QR code technologies for smart identification systems.
+📫 Get in Touch
+Email: [Your Email]
+LinkedIn: [Your LinkedIn Profile]
+Website: [Your Website, if available]
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3bdelrahman-ibrahim&label=Profile%20views&color=0e75b6&style=flat" alt="3bdelrahman-ibrahim" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3bdelrahman-ibrahim" alt="3bdelrahman-ibrahim" /></a> </p>
