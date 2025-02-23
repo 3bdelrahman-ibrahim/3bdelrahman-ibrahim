@@ -63,7 +63,7 @@ A passionate Flutter Developer with a strong foundation in UI/UX design and a Ba
 - Accessibility standards
 - Security best practices
 
-<div align="left">
+<div align="left" style="padding: 20px 0;">
     <!-- Mobile Development -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />
   <img width="12" />
