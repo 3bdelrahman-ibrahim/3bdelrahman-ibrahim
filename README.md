@@ -35,17 +35,22 @@ A passionate Flutter Developer with a strong foundation in UI/UX design and a Ba
 
 ### 🚀 Featured Projects
 
-**Smart ID Application (تطبيق.تك)**
-- Implemented NFC and QR code technologies for smart identification
-- Developed secure user authentication system
-- Integrated real-time data synchronization
-- Built responsive UI supporting Arabic and English localization
+**Food Delivery App and Restaurant Management**
+- Developed a seamless food ordering and delivery system
+- Implemented efficient restaurant management features
+- Built a modern and responsive UI with Arabic and English localization
+- Integrated real-time order tracking and customer feedback systems
 
-**Project 2025**
-- Created modern, responsive UI with light/dark mode support
-- Implemented efficient state management solutions
-- Optimized app performance and resource usage
-- Integrated comprehensive analytics and crash reporting
+**Smart Home App with Arduino Integration**
+- Integrated Arduino-based devices for smart home control
+- Developed a responsive and intuitive UI to control smart devices
+- Added features for remote monitoring and device management
+- Supported voice commands and automation scenarios
+
+**SalamSpace App**
+- Created a platform for users to connect and communicate
+- Available on both Google Play and iOS (Salam app)
+- Integrated social features to promote interaction and support
 
 ### 🌟 Key Achievements
 
