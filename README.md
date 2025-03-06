@@ -4,6 +4,14 @@
 
 A passionate Flutter Developer with a strong foundation in UI/UX design and a Bachelor's degree in Mechatronics Engineering. Specializing in creating high-performance, user-centric mobile applications with a focus on innovative solutions and exceptional user experiences.
 
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3bdelrahman-ibrahim&show_icons=true&theme=dracula&hide_border=true)](https://github.com/3bdelrahman-ibrahim)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3bdelrahman-ibrahim&layout=compact&theme=blue-dark&hide_border=true)](https://github.com/3bdelrahman-ibrahim)
+ 
+</div>
+
 ### 🎯 Core Competencies
 
 - **Mobile Development:** Building scalable applications using Flutter and Dart
@@ -133,14 +141,4 @@ A passionate Flutter Developer with a strong foundation in UI/UX design and a Ba
 - 🌐 Portfolio: [View My Work](https://3bdelrahman-ibrahim.github.io/Portfolio/)
 - 👥 Facebook: [Profile](https://www.facebook.com/3bdelrahman.ibrahim)
 
----
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3bdelrahman-ibrahim&show_icons=true&theme=dracula&hide_border=true)](https://github.com/3bdelrahman-ibrahim)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3bdelrahman-ibrahim&layout=compact&theme=dracula&hide_border=true)](https://github.com/3bdelrahman-ibrahim)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=3bdelrahman-ibrahim&theme=dracula&hide_border=true)](https://github.com/3bdelrahman-ibrahim)
- 
-</div>
