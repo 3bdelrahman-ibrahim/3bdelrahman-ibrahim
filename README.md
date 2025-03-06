@@ -1,147 +1,75 @@
-# Abdelrahman Ibrahim
+<h1 align="center">Hi 👋, I'm Abdelrahman Ibrahim</h1>
+<h3 align="center">A Passionate Flutter Developer 🚀</h3>
 
-## Mobile Application Developer & UI/UX Designer
-
-A passionate Flutter Developer with a strong foundation in UI/UX design and a Bachelor's degree in Mechatronics Engineering. Specializing in creating high-performance, user-centric mobile applications with a focus on innovative solutions and exceptional user experiences.
-
-### 🎯 Core Competencies
-
-- **Mobile Development:** Building scalable applications using Flutter and Dart
-- **UI/UX Design:** Creating intuitive and responsive user interfaces
-- **Backend Integration:** Implementing robust backend solutions with Supabase and Firebase
-- **Cross-Platform Development:** Developing applications for iOS, Android, and Web platforms
-
-### 💻 Technical Expertise
-
-**Mobile Development**
-- Flutter & Dart
-- State Management (Provider/Bloc)dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
-- REST APIs Integration
-- Local Data Storage
-- Push Notifications
-
-**Backend & Cloud**
-- Supabase
-- Firebase
-- Node.js
-- Google Play Services
-
-**Design & Tools**
-- Figma
-- Adobe XD
-- Git & GitHub
-- VS Code
-- Xcode
-
-### 🚀 Featured Projects
-
-**Food Delivery App and Restaurant Management**
-- Developed a seamless food ordering and delivery system
-- Implemented efficient restaurant management features
-- Built a modern and responsive UI with Arabic and English localization
-- Integrated real-time order tracking and customer feedback systems
-
-**Smart Home App with Arduino Integration**
-- Integrated Arduino-based devices for smart home control
-- Developed a responsive and intuitive UI to control smart devices
-- Added features for remote monitoring and device management
-- Supported voice commands and automation scenarios
-
-**SalamSpace App**
-- Created a platform for users to connect and communicate
-- Available on both Google Play and iOS (Salam app)
-- Integrated social features to promote interaction and support
-
-### 🌟 Key Achievements
-
-- Successfully delivered multiple bilingual applications supporting Arabic and English
-- Implemented complex UI animations and transitions for enhanced user experience
-- Optimized application performance resulting in improved user engagement
-- Integrated secure payment gateways and authentication systems
-
-### 📱 Professional Focus
-
-- Mobile-first development approach
-- Clean architecture and maintainable code
-- Performance optimization
-- Cross-platform compatibility
-- Accessibility standards
-- Security best practices
-
-<div align="left">
-    <!-- Mobile Development -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="Android" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="iOS" />
-  <img width="12" />
-
-  <!-- Core Technologies -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img width="12" />
-  
-  <!-- Backend & Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase" />
-  <img width="12" />
-  
-  
-  <!-- DevOps & Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
-  <img width="12" />
-  
-  <!-- Cloud & Hosting -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="Google Cloud" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="30" alt="Heroku" />
-</div>
-
-
-### 📫 Connect With Me
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-- 📧 Email: [3bdelrahman.ibrahim@gmail.com](mailto:3bdelrahman.ibrahim@gmail.com)
-- 💼 LinkedIn: [Abdelrahman Ibrahim](https://www.linkedin.com/in/3bdelrahman-ibrahim)
-- 🌐 Portfolio: [View My Work](https://3bdelrahman-ibrahim.github.io/Portfolio/)
-- 👥 Facebook: [Profile](https://www.facebook.com/3bdelrahman.ibrahim)
+![Profile Views](https://komarev.com/ghpvc/?username=3bdelrahman-ibrahim&color=blueviolet)
 
 ---
 
-<div align="center">
+## 📊 GitHub Stats  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3bdelrahman-ibrahim&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/3bdelrahman-ibrahim)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3bdelrahman-ibrahim&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/3bdelrahman-ibrahim)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=3bdelrahman-ibrahim&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=3bdelrahman-ibrahim&theme=tokyonight&no-frame=true)](https://github.com/3bdelrahman-ibrahim)  
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3bdelrahman-ibrahim&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/3bdelrahman-ibrahim)
+---
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3bdelrahman-ibrahim&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/3bdelrahman-ibrahim)
+## 🔥 Contribution Graph  
+[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=3bdelrahman-ibrahim&theme=tokyonight&hide_border=true)](https://github.com/3bdelrahman-ibrahim)  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=3bdelrahman-ibrahim&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+---
 
- 
-</div>
+## 🚀 Wakatime Stats  
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=3bdelrahman-ibrahim&theme=tokyonight&hide_border=true)](https://github.com/3bdelrahman-ibrahim)  
+
+---
+
+## 📢 Latest Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+<!-- BLOG-POST-LIST:END -->  
+
+---
+
+## 🎥 Latest YouTube Videos  
+[![Latest YouTube Videos](https://img.shields.io/badge/YouTube-Videos-red?logo=youtube&logoColor=white)](https://www.youtube.com/channel/YOUR_CHANNEL_ID)  
+
+---
+
+## 🎧 Spotify Now Playing  
+[![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)  
+
+---
+
+## 🏆 GitHub Skyline  
+[GitHub Skyline](https://skyline.github.com/3bdelrahman-ibrahim)  
+
+---
+
+## 🐍 Snake Contributions  
+![Snake animation](https://github.com/3bdelrahman-ibrahim/3bdelrahman-ibrahim/blob/output/github-contribution-grid-snake.svg)  
+
+---
+
+## ✨ Random Quote  
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/3bdelrahman-ibrahim)  
+
+---
+
+## 💻 Tech Stack  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+
+---
+
+## 📌 Badges  
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)  
+![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)  
+![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart)  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)  
+
+---
+
+## ☕ Support Me  
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/3bdelrahman-ibrahim)  
