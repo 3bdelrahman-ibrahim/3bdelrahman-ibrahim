@@ -137,7 +137,7 @@ A passionate Flutter Developer with a strong foundation in UI/UX design and a Ba
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3bdelrahman-ibrahim&show_icons=true&theme=onedark&hide_border=true)](https://github.com/3bdelrahman-ibrahim)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3bdelrahman-ibrahim&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/3bdelrahman-ibrahim)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3bdelrahman-ibrahim&layout=compact&theme=blue-dark&hide_border=true)](https://github.com/3bdelrahman-ibrahim)
  
