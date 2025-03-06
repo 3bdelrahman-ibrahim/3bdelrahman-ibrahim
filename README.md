@@ -45,15 +45,6 @@
 
 ---
 
-## **📫 Connect With Me**  
-
-📧 **Email:** [3bdelrahman.ibrahim@gmail.com](mailto:3bdelrahman.ibrahim@gmail.com)  
-🔗 **LinkedIn:** [Abdelrahman Ibrahim](https://www.linkedin.com/in/3bdelrahman-ibrahim)  
-🌐 **Portfolio:** [My Work](https://3bdelrahman-ibrahim.github.io/Portfolio/)  
-👥 **Facebook:** [Profile](https://www.facebook.com/3bdelrahman.ibrahim)  
-
----
-
 ## **📊 GitHub Stats**  
 
 <div align="center">
@@ -63,61 +54,6 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3bdelrahman-ibrahim&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/3bdelrahman-ibrahim)  
 
 </div>  
-
-
-# Abdelrahman Ibrahim
-
-## Mobile Application Developer & UI/UX Designer
-
-A passionate Flutter Developer with a strong foundation in UI/UX design and a Bachelor's degree in Mechatronics Engineering. Specializing in creating high-performance, user-centric mobile applications with a focus on innovative solutions and exceptional user experiences.
-
-### 🎯 Core Competencies
-
-- **Mobile Development:** Building scalable applications using Flutter and Dart
-- **UI/UX Design:** Creating intuitive and responsive user interfaces
-- **Backend Integration:** Implementing robust backend solutions with Supabase and Firebase
-- **Cross-Platform Development:** Developing applications for iOS, Android, and Web platforms
-
-### 💻 Technical Expertise
-
-**Mobile Development**
-- Flutter & Dart
-- State Management (Provider/Bloc)dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
-- REST APIs Integration
-- Local Data Storage
-- Push Notifications
-
-**Backend & Cloud**
-- Supabase
-- Firebase
-- Node.js
-- Google Play Services
-
-**Design & Tools**
-- Figma
-- Adobe XD
-- Git & GitHub
-- VS Code
-- Xcode
-
-### 🚀 Featured Projects
-
-**Food Delivery App and Restaurant Management**
-- Developed a seamless food ordering and delivery system
-- Implemented efficient restaurant management features
-- Built a modern and responsive UI with Arabic and English localization
-- Integrated real-time order tracking and customer feedback systems
-
-**Smart Home App with Arduino Integration**
-- Integrated Arduino-based devices for smart home control
-- Developed a responsive and intuitive UI to control smart devices
-- Added features for remote monitoring and device management
-- Supported voice commands and automation scenarios
-
-**SalamSpace App**
-- Created a platform for users to connect and communicate
-- Available on both Google Play and iOS (Salam app)
-- Integrated social features to promote interaction and support
 
 <div align="left">
     <!-- Mobile Development -->
@@ -179,18 +115,7 @@ A passionate Flutter Developer with a strong foundation in UI/UX design and a Ba
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-- 📧 Email: [3bdelrahman.ibrahim@gmail.com](mailto:3bdelrahman.ibrahim@gmail.com)
-- 💼 LinkedIn: [Abdelrahman Ibrahim](https://www.linkedin.com/in/3bdelrahman-ibrahim)
-- 🌐 Portfolio: [View My Work](https://3bdelrahman-ibrahim.github.io/Portfolio/)
-- 👥 Facebook: [Profile](https://www.facebook.com/3bdelrahman.ibrahim)
-
----
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3bdelrahman-ibrahim&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/3bdelrahman-ibrahim)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3bdelrahman-ibrahim&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/3bdelrahman-ibrahim)  
-
-</div> 
-
+📧 **Email:** [3bdelrahman.ibrahim@gmail.com](mailto:3bdelrahman.ibrahim@gmail.com)  
+🔗 **LinkedIn:** [Abdelrahman Ibrahim](https://www.linkedin.com/in/3bdelrahman-ibrahim)  
+🌐 **Portfolio:** [My Work](https://3bdelrahman-ibrahim.github.io/Portfolio/)  
+👥 **Facebook:** [Profile](https://www.facebook.com/3bdelrahman.ibrahim)  
