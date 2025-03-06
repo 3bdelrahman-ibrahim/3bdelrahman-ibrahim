@@ -1,6 +1,3 @@
-Here’s a refined and summarized version of your profile with an improved structure and a professional touch. I've also placed a clean, simple diagram at the top to visualize your core expertise.
-
----
 
 # **Abdelrahman Ibrahim**  
 ### **Mobile Application Developer & UI/UX Designer**  
