@@ -1,121 +1,89 @@
+# Abdelrahman Ibrahim
 
-# **Abdelrahman Ibrahim**  
-### **Mobile Application Developer & UI/UX Designer**  
+<p align="center">
+  <strong>Flutter Developer · Mobile Engineer · UI/UX Designer</strong>
+  <br />
+  Building thoughtful mobile products with clean architecture, polished interfaces, and reliable integrations.
+  <br />
+  Cairo, Egypt · Open to opportunities across Egypt and the Gulf
+</p>
 
-🚀 Passionate **Flutter Developer** with a strong foundation in **UI/UX Design** and a **Bachelor's degree in Mechatronics Engineering**. Specialized in building high-performance, user-centric mobile applications with **scalable backend solutions**.
-
----
-
-## **🎯 Core Skills**  
-
-### **📱 Mobile Development**
-- **Flutter & Dart**
-- **State Management:** Provider, Bloc  
-- **REST API Integration**  
-- **Local Data Storage (Hive, SQLite)**  
-- **Push Notifications (FCM, OneSignal)**  
-
-### **☁️ Backend & Cloud**  
-- **Supabase & Firebase**  
-- **Node.js & Express.js**  
-- **Google Play Services**  
-
-### **🎨 UI/UX & Tools**  
-- **Figma & Adobe XD**  
-- **Git & GitHub, VS Code, Xcode**  
+<p align="center">
+  <a href="https://3bdelrahman-ibrahim.github.io/Portfolio/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/3bdelrahman-ibrahim">LinkedIn</a> ·
+  <a href="mailto:3bdelrahman.ibrahim@gmail.com">Email</a> ·
+  <a href="https://3bdelrahman-ibrahim.github.io/Portfolio/assets/documents/cv.pdf">Resume</a>
+</p>
 
 ---
 
-## **🚀 Featured Projects**  
+## About Me
 
-### **🍔 Food Delivery & Restaurant Management**
-✔️ Seamless food ordering & delivery  
-✔️ Restaurant management & real-time tracking  
-✔️ Arabic & English localization  
+I'm a software engineer specializing in Flutter development and cross-platform mobile applications. I enjoy turning ideas into practical products, combining thoughtful UI/UX design with maintainable code and dependable backend integrations.
 
-### **🏡 Smart Home App (Arduino Integration)**
-✔️ IoT-based home automation  
-✔️ Remote monitoring & device management  
-✔️ Voice commands & automation  
+My work spans the full mobile development lifecycle, from interface design and API integration to testing, deployment, and post-release improvements.
 
-### **🕌 SalamSpace App**  
-✔️ Social platform for user interaction  
-✔️ Available on **Google Play & iOS**  
-✔️ Integrated community features  
+- **Mobile development:** Building applications for Android and iOS with Flutter and Dart.
+- **Backend integration:** Working with Firebase, Supabase, REST APIs, and cloud services.
+- **Product design:** Creating intuitive interfaces with responsive layouts and Arabic/English localization.
+- **Production experience:** Published mobile applications on Google Play, with experience maintaining and improving real products.
 
----
+I hold a Bachelor's degree in Mechatronics Engineering from the Canadian International College (CIC), graduating in 2024.
 
-## **📊 GitHub Stats**  
+## Selected Projects
 
-<div align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://play.google.com/store/apps/details?id=com.arab.salamspace">Salam Space</a></h3>
+      <p><strong>Islamic Lifestyle · Flutter</strong></p>
+      An Islamic companion app featuring prayer times, Quran resources, daily supplications, and other tools for everyday worship.
+      <br /><br />
+      <a href="https://play.google.com/store/apps/details?id=com.arab.salamspace">View on Google Play →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://play.google.com/store/apps/details?id=com.drivenow.app">Drive Now</a></h3>
+      <p><strong>Mobility · Flutter</strong></p>
+      A transportation booking application for cars and motorcycles, designed to support booking flows, location tracking, and payment options.
+      <br /><br />
+      <a href="https://play.google.com/store/apps/details?id=com.drivenow.app">View on Google Play →</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/3bdelrahman-ibrahim/Portfolio">Personal Portfolio</a></h3>
+      <p><strong>Web Development · GitHub Pages</strong></p>
+      A personal website showcasing my work, technical background, and published applications, with supporting project documentation.
+      <br /><br />
+      <a href="https://3bdelrahman-ibrahim.github.io/Portfolio/">Visit Portfolio →</a>
+    </td>
+  </tr>
+</table>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3bdelrahman-ibrahim&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/3bdelrahman-ibrahim)  
+## Technical Skills
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3bdelrahman-ibrahim&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/3bdelrahman-ibrahim)  
+**Mobile Development**  
+Flutter, Dart, Android, iOS, Provider, BLoC, REST API integration, Hive, SQLite
 
-</div>  
+**Backend & Cloud**  
+Firebase, Supabase, Authentication, Firestore, Cloud Storage, Firebase Cloud Messaging, Node.js, Express.js
 
-<div align="left">
-    <!-- Mobile Development -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="Android" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="iOS" />
-  <img width="12" />
+**UI/UX & Product Design**  
+Figma, Adobe XD, responsive interfaces, Material Design, Arabic/English localization, RTL layouts, dark and light themes
 
-  <!-- Core Technologies -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img width="12" />
-  
-  <!-- Backend & Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase" />
-  <img width="12" />
-  
-  
-  <!-- DevOps & Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
-  <img width="12" />
-  
-  <!-- Cloud & Hosting -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="Google Cloud" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="30" alt="Heroku" />
-</div>
+**Tools & Engineering**  
+Git, GitHub, VS Code, Android Studio, Xcode, debugging, testing, build and release workflows
 
+## Education
 
-### 📫 Connect With Me
+**Bachelor's Degree in Mechatronics Engineering**  
+Canadian International College (CIC) · 2019–2024
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+## Let's Connect
 
-📧 **Email:** [3bdelrahman.ibrahim@gmail.com](mailto:3bdelrahman.ibrahim@gmail.com)  
-🔗 **LinkedIn:** [Abdelrahman Ibrahim](https://www.linkedin.com/in/3bdelrahman-ibrahim)  
-🌐 **Portfolio:** [My Work](https://3bdelrahman-ibrahim.github.io/Portfolio/)  
-👥 **Facebook:** [Profile](https://www.facebook.com/3bdelrahman.ibrahim)  
+I'm interested in Flutter development, mobile engineering, and product-focused software opportunities, particularly with teams building useful, scalable applications.
+
+- **Email:** [3bdelrahman.ibrahim@gmail.com](mailto:3bdelrahman.ibrahim@gmail.com)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/3bdelrahman-ibrahim)
+- **Portfolio:** [Explore my work](https://3bdelrahman-ibrahim.github.io/Portfolio/)
+
