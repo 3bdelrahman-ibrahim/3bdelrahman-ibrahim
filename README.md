@@ -144,7 +144,11 @@ I enjoy turning ideas into practical digital products, from designing user inter
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=3bdelrahman-ibrahim&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=3bdelrahman-ibrahim&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub contribution activity graph"
+    width="100%"
+  />
 </p>
 
 ---
