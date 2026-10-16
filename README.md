@@ -1,89 +1,158 @@
 # Abdelrahman Ibrahim
 
 <p align="center">
-  <strong>Flutter Developer · Mobile Engineer · UI/UX Designer</strong>
-  <br />
-  Building thoughtful mobile products with clean architecture, polished interfaces, and reliable integrations.
-  <br />
-  Cairo, Egypt · Open to opportunities across Egypt and the Gulf
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:101827,50:16324F,100:0D9488&text=Abdelrahman%20Ibrahim&fontColor=FFFFFF&fontSize=38&fontAlignY=42&desc=Flutter%20Developer%20%7C%20Mobile%20Engineer%20%7C%20UI%2FUX%20Designer&descSize=15&descAlignY=65" width="100%" alt="Abdelrahman Ibrahim profile banner" />
 </p>
 
 <p align="center">
-  <a href="https://3bdelrahman-ibrahim.github.io/Portfolio/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/3bdelrahman-ibrahim">LinkedIn</a> ·
-  <a href="mailto:3bdelrahman.ibrahim@gmail.com">Email</a> ·
-  <a href="https://3bdelrahman-ibrahim.github.io/Portfolio/assets/documents/cv.pdf">Resume</a>
+  <a href="https://3bdelrahman-ibrahim.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/3bdelrahman-ibrahim">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:3bdelrahman.ibrahim@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://3bdelrahman-ibrahim.github.io/Portfolio/assets/documents/cv.pdf">
+    <img src="https://img.shields.io/badge/Resume-View-64748B?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=3bdelrahman-ibrahim&style=flat-square&color=0D9488&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ---
 
 ## About Me
 
-I'm a software engineer specializing in Flutter development and cross-platform mobile applications. I enjoy turning ideas into practical products, combining thoughtful UI/UX design with maintainable code and dependable backend integrations.
+I'm a software engineer focused on building cross-platform mobile applications with **Flutter and Dart**, combining thoughtful UI/UX design with maintainable architecture and reliable backend integrations.
 
-My work spans the full mobile development lifecycle, from interface design and API integration to testing, deployment, and post-release improvements.
+I enjoy working across the product lifecycle, from turning ideas into interfaces to integrating APIs, testing features, and preparing applications for release.
 
-- **Mobile development:** Building applications for Android and iOS with Flutter and Dart.
-- **Backend integration:** Working with Firebase, Supabase, REST APIs, and cloud services.
-- **Product design:** Creating intuitive interfaces with responsive layouts and Arabic/English localization.
-- **Production experience:** Published mobile applications on Google Play, with experience maintaining and improving real products.
+- 📱 Building applications for Android and iOS.
+- 🎨 Designing polished, intuitive user experiences.
+- 🔗 Integrating APIs, authentication, databases, and cloud services.
+- 🌍 Supporting Arabic and English interfaces, including RTL layouts.
+- 🚀 Interested in product engineering, mobile performance, and practical AI integrations.
 
-I hold a Bachelor's degree in Mechatronics Engineering from the Canadian International College (CIC), graduating in 2024.
+🎓 **Education:** Bachelor's degree in Mechatronics Engineering — Canadian International College (CIC), 2019–2024.
 
-## Selected Projects
+📍 Cairo, Egypt · Open to mobile engineering opportunities in Egypt and the Gulf.
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,apple,firebase,supabase,nodejs,express,js,ts,html,css" alt="Mobile development and backend technologies" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,sqlite,linux,vercel" alt="Development tools" />
+</p>
+
+### Core Skills
+
+| Area | Technologies |
+|---|---|
+| Mobile | Flutter, Dart, Android, iOS |
+| State Management | Provider, BLoC |
+| Backend | Firebase, Supabase, Node.js, Express.js |
+| APIs & Data | REST APIs, Firestore, SQLite, Hive |
+| Notifications | Firebase Cloud Messaging, OneSignal |
+| UI/UX | Figma, Adobe XD, Material Design |
+| Localization | Arabic, English, RTL, responsive layouts |
+| Workflow | Git, GitHub, debugging, testing, app deployment |
+
+---
+
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://play.google.com/store/apps/details?id=com.arab.salamspace">Salam Space</a></h3>
-      <p><strong>Islamic Lifestyle · Flutter</strong></p>
-      An Islamic companion app featuring prayer times, Quran resources, daily supplications, and other tools for everyday worship.
-      <br /><br />
-      <a href="https://play.google.com/store/apps/details?id=com.arab.salamspace">View on Google Play →</a>
+      <h3>🕌 Salam Space</h3>
+      <p>
+        <a href="https://play.google.com/store/apps/details?id=com.arab.salamspace">
+          <img src="https://img.shields.io/badge/Google_Play-View_App-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="View Salam Space on Google Play" />
+        </a>
+      </p>
+      An Islamic companion app with prayer times, Quran resources, daily supplications, and tools for everyday worship.
+      <p><strong>Built with:</strong> Flutter, Dart</p>
+      <a href="https://play.google.com/store/apps/details?id=com.arab.salamspace">View project →</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://play.google.com/store/apps/details?id=com.drivenow.app">Drive Now</a></h3>
-      <p><strong>Mobility · Flutter</strong></p>
-      A transportation booking application for cars and motorcycles, designed to support booking flows, location tracking, and payment options.
-      <br /><br />
-      <a href="https://play.google.com/store/apps/details?id=com.drivenow.app">View on Google Play →</a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3><a href="https://github.com/3bdelrahman-ibrahim/Portfolio">Personal Portfolio</a></h3>
-      <p><strong>Web Development · GitHub Pages</strong></p>
-      A personal website showcasing my work, technical background, and published applications, with supporting project documentation.
-      <br /><br />
-      <a href="https://3bdelrahman-ibrahim.github.io/Portfolio/">Visit Portfolio →</a>
+      <h3>🚗 Drive Now</h3>
+      <p>
+        <a href="https://play.google.com/store/apps/details?id=com.drivenow.app">
+          <img src="https://img.shields.io/badge/Google_Play-View_App-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="View Drive Now on Google Play" />
+        </a>
+      </p>
+      A transportation booking app for cars and motorcycles, featuring booking flows, location tracking, and payment options.
+      <p><strong>Built with:</strong> Flutter, Dart</p>
+      <a href="https://play.google.com/store/apps/details?id=com.drivenow.app">View project →</a>
     </td>
   </tr>
 </table>
 
-## Technical Skills
+### 🌐 Personal Portfolio
 
-**Mobile Development**  
-Flutter, Dart, Android, iOS, Provider, BLoC, REST API integration, Hive, SQLite
+Explore my projects, technical background, and published applications.
 
-**Backend & Cloud**  
-Firebase, Supabase, Authentication, Firestore, Cloud Storage, Firebase Cloud Messaging, Node.js, Express.js
+<p align="center">
+  <a href="https://3bdelrahman-ibrahim.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Explore-My_Portfolio-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore portfolio" />
+  </a>
+  <a href="https://github.com/3bdelrahman-ibrahim/Portfolio">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio source code" />
+  </a>
+</p>
 
-**UI/UX & Product Design**  
-Figma, Adobe XD, responsive interfaces, Material Design, Arabic/English localization, RTL layouts, dark and light themes
+---
 
-**Tools & Engineering**  
-Git, GitHub, VS Code, Android Studio, Xcode, debugging, testing, build and release workflows
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=3bdelrahman-ibrahim&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3bdelrahman-ibrahim&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=3bdelrahman-ibrahim&theme=tokyonight&hide_border=true" width="70%" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=3bdelrahman-ibrahim&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
+</p>
+
+---
 
 ## Education
 
-**Bachelor's Degree in Mechatronics Engineering**  
+🎓 **Mechatronics Engineering**  
 Canadian International College (CIC) · 2019–2024
 
-## Let's Connect
+---
 
-I'm interested in Flutter development, mobile engineering, and product-focused software opportunities, particularly with teams building useful, scalable applications.
+## Let's Build Something Useful
 
-- **Email:** [3bdelrahman.ibrahim@gmail.com](mailto:3bdelrahman.ibrahim@gmail.com)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/3bdelrahman-ibrahim)
-- **Portfolio:** [Explore my work](https://3bdelrahman-ibrahim.github.io/Portfolio/)
+I'm interested in working with teams that value good engineering, clear design, and software that solves real problems.
 
+<p align="center">
+  <a href="mailto:3bdelrahman.ibrahim@gmail.com">
+    <img src="https://img.shields.io/badge/Let's_Talk-Contact_Me-0D9488?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me" />
+  </a>
+  <a href="https://www.linkedin.com/in/3bdelrahman-ibrahim">
+    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Designed and maintained by Abdelrahman Ibrahim · Cairo, Egypt</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=60&section=footer&color=0:101827,100:0D9488" width="100%" alt="" />
+</p>
